@@ -1,0 +1,4 @@
+com/integral/account/resources/TransactionResourceTest.class
+com/integral/account/resources/AccountResourceTest.class
+com/integral/account/db/TransactionDAOTest.class
+com/integral/account/db/AccountDAOTest.class
